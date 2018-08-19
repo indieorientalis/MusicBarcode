@@ -1,4 +1,4 @@
 # MusicBarcode
 Music Release Barcode
 
-* Data collected from discogs.com: [discogs/](discogs/)
+* [discogs/](discogs/): Data collected from discogs.com, 2,349,007 barcodes in total
