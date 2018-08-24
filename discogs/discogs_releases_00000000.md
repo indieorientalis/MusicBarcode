@@ -1,5 +1,3 @@
-| ID   | BARCODE   | TITLE |
-| ---- | --------- | ----- |
 | [3](https://www.discogs.com/release/3) | 074646362822 | Profound Sounds Vol. 1 |
 | [21](https://www.discogs.com/release/21) | 7961220922684 | Neural Response EP |
 | [24](https://www.discogs.com/release/24) | 752743004318 | Digitalsoul (Session One) |
